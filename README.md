@@ -49,8 +49,8 @@ A robust and secure natural language interface for executing Linux commands, des
 ### Clone the Repository
 
 ```bash
-git clone [<your-repo-url>](https://github.com/HarshaLakkaraju/Natural-Language-System-Interface-Linux-)
-cd <repo-directory>
+git clone https://github.com/HarshaLakkaraju/Natural_Language_System_Interface_Linux
+cd Natural_Language_System_Interface_Linux
 ```
 
 ### Install Requirements
@@ -58,7 +58,7 @@ cd <repo-directory>
 Install the required package using `pip`:
 
 ```bash
-pip install -r requirements.txt
+pip install -r req.txt
 ```
 
 > Note: Ensure that the **Ollama API** is running locally at `http://localhost:11434`.
