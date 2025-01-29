@@ -49,7 +49,7 @@ A robust and secure natural language interface for executing Linux commands, des
 ### Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone [<your-repo-url>](https://github.com/HarshaLakkaraju/Natural-Language-System-Interface-Linux-)
 cd <repo-directory>
 ```
 
