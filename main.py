@@ -1,8 +1,4 @@
-"""
-Natural Language System Interface - Debugged Version
-Author: DeepSeek-R1 (debugged)
-Ensures valid command generation and execution
-"""
+
 
 import os
 import re
