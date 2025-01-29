@@ -2,6 +2,9 @@
 
 A robust and secure natural language interface for executing Linux commands, designed to ensure valid command generation and execution while prioritizing system safety.
 
+![image](https://github.com/user-attachments/assets/3e5f36b3-363a-4ff3-bff8-f9d2faccb63f)
+
+
 ## Features
 
 - Natural language to Linux command conversion using the **Ollama Llama** model.
